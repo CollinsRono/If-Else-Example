@@ -1,0 +1,9 @@
+public static void main (String [] args) {
+  int user= 17;
+ if (user <=18){
+    System.out.println("The individual is too young to get an ID");
+ }
+ else{
+    System.out.println("Individual is qualified to get an ID");
+ }
+}
